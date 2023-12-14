@@ -1,2 +1,2 @@
-# Saturday-HackNight-Flet
-An app using flet
+# Saturday-HackNight-Frappe
+An app using frappe
